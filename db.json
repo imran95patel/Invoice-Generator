@@ -1,0 +1,417 @@
+{
+  "lotus": [
+    {
+      "id": 6,
+      "client_name": "ankush",
+      "plot_no": "15",
+      "report_no": "10",
+      "date": "2023-10-15",
+      "job_id": "123446678899",
+      "materialThRe": "14566",
+      "procedure_no": "pro1",
+      "mat_type": "mat 1",
+      "acceptSTD": "ok",
+      "source": "so1",
+      "source_size": "ss1",
+      "RTspec": "rt1",
+      "sourceStr": "ss1",
+      "SOD": "sod1",
+      "drawing_no": "dr1",
+      "expo_time": "ex1",
+      "expTech": "ext1",
+      "OFD": "of1",
+      "no_exp": "exp1",
+      "welder_no": "wed1",
+      "radiographyExt": "radio1",
+      "lead_B": "letter1",
+      "welding_process": "pro1",
+      "IQI": "IQI1",
+      "viewing": "view1",
+      "film_brand": "film1",
+      "wire_type": "wire1",
+      "density": "den1",
+      "films": "cassette1",
+      "hole_type": "QQI1",
+      "req_sensitivity": "sense1",
+      "tech_sheet": "01",
+      "tableData": [
+        [
+          {
+            "array": []
+          }
+        ]
+      ]
+    },
+    {
+      "id": 9,
+      "client_name": " GLATT SYSTEMS PVT LTD",
+      "date": "2024-01-25",
+      "tableData": []
+    },
+    {
+      "client_name": " GLATT SYSTEMS PVT LTD",
+      "date": "2024-01-27",
+      "tableData": [
+        {
+          "film_size": "first",
+          "joint": "",
+          "spot": "",
+          "observation": "",
+          "remark": ""
+        },
+        {
+          "film_size": "2nd",
+          "joint": "",
+          "spot": "",
+          "observation": "",
+          "remark": ""
+        }
+      ],
+      "id": 12
+    },
+    {
+      "client_name": " GLATT SYSTEMS PVT LTD",
+      "date": "2024-01-20",
+      "tableData": [
+        {
+          "film_size": "ank",
+          "joint": "",
+          "spot": "",
+          "observation": "",
+          "remark": ""
+        },
+        {
+          "film_size": "b",
+          "joint": "",
+          "spot": "",
+          "observation": "",
+          "remark": ""
+        },
+        {
+          "film_size": "c",
+          "joint": "",
+          "spot": 60,
+          "observation": "",
+          "remark": "ok"
+        },
+        {
+          "film_size": "d",
+          "joint": "jjj",
+          "spot": 60,
+          "observation": "",
+          "remark": ""
+        },
+        {
+          "film_size": "e",
+          "joint": "gyy",
+          "spot": 30,
+          "observation": "mkk",
+          "remark": "kkk"
+        },
+        {
+          "film_size": "fff",
+          "joint": "jjjj",
+          "spot": 20,
+          "observation": "mkkk",
+          "remark": "ok78"
+        },
+        {
+          "film_size": "ggg",
+          "joint": "mmm",
+          "spot": 110,
+          "observation": "kll",
+          "remark": "ppo"
+        }
+      ],
+      "id": 13
+    },
+    {
+      "tableData": [
+        {
+          "film_size": "",
+          "joint": "",
+          "spot": "A-B",
+          "observation": "",
+          "remark": ""
+        },
+        {
+          "film_size": "",
+          "joint": "",
+          "spot": "B-C",
+          "observation": "",
+          "remark": ""
+        },
+        {
+          "film_size": "",
+          "joint": "",
+          "spot": "C-D",
+          "observation": "",
+          "remark": ""
+        },
+        {
+          "film_size": "",
+          "joint": "",
+          "spot": "D-E",
+          "observation": "",
+          "remark": ""
+        },
+        {
+          "film_size": "",
+          "joint": "",
+          "spot": "E-F",
+          "observation": "",
+          "remark": ""
+        },
+        {
+          "film_size": "",
+          "joint": "",
+          "spot": "F-G",
+          "observation": "",
+          "remark": ""
+        },
+        {
+          "film_size": "",
+          "joint": "",
+          "spot": "G-H",
+          "observation": "",
+          "remark": ""
+        },
+        {
+          "film_size": "",
+          "joint": "",
+          "spot": "H-I",
+          "observation": "",
+          "remark": ""
+        },
+        {
+          "film_size": "",
+          "joint": "",
+          "spot": "I-J",
+          "observation": "",
+          "remark": ""
+        },
+        {
+          "film_size": "",
+          "joint": "",
+          "spot": "J-K",
+          "observation": "",
+          "remark": ""
+        },
+        {
+          "film_size": "",
+          "joint": "",
+          "spot": "L-M",
+          "observation": "",
+          "remark": ""
+        },
+        {
+          "film_size": "",
+          "joint": "",
+          "spot": "M-N",
+          "observation": "",
+          "remark": ""
+        },
+        {
+          "film_size": "",
+          "joint": "",
+          "spot": "N-O",
+          "observation": "",
+          "remark": ""
+        }
+      ],
+      "id": 14
+    },
+    {
+      "date": "2024-01-27",
+      "tableData": [],
+      "id": 15
+    },
+    {
+      "date": "2024-01-19",
+      "tableData": [],
+      "id": 16
+    },
+    {
+      "tableData": [
+        {
+          "array": []
+        }
+      ],
+      "id": 18
+    },
+    {
+      "tableData": [
+        {
+          "array": []
+        }
+      ],
+      "id": 19
+    },
+    {
+      "tableData": [
+        {
+          "array": []
+        }
+      ],
+      "id": 20
+    },
+    {
+      "tableData": [
+        {
+          "array": []
+        }
+      ],
+      "id": 21
+    },
+    {
+      "date": "2024-01-19",
+      "tableData": [
+        {
+          "array": []
+        }
+      ],
+      "id": 22
+    },
+    {
+      "client_name": " GLATT SYSTEMS PVT LTD",
+      "tableData": [
+        {
+          "tableItem": [
+            {
+              "film_size": "aaa",
+              "joint": "",
+              "spot": "C-D",
+              "observation": "",
+              "remark": "ok12"
+            },
+            {
+              "film_size": "bbb",
+              "joint": "cc",
+              "spot": "B-C",
+              "observation": "",
+              "remark": "ok3"
+            }
+          ]
+        }
+      ],
+      "id": 23
+    },
+    {
+      "id": 24,
+      "client_name": " GLATT SYSTEMS PVT LTD1233",
+      "tableData": [
+        [
+          {
+            "tableItem": [
+              {
+                "film_size": "",
+                "joint": "ok",
+                "spot": "",
+                "observation": "",
+                "remark": ""
+              }
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "id": 25,
+      "client_name": " GLATT SYSTEMS PVT LTD12233",
+      "report_no": "PNS/2023-24/16345",
+      "date": "2024-01-31",
+      "tableData": [
+        [
+          {
+            "tableItem": [
+              {
+                "film_size": "14566",
+                "joint": "122",
+                "spot": "C-D",
+                "observation": "4799",
+                "remark": "658"
+              }
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "id": 26,
+      "date": "2024-01-19",
+      "tableData": [
+        [
+          {
+            "film_size": "445555",
+            "joint": "455",
+            "spot": "L-M",
+            "observation": "",
+            "remark": "oko"
+          }
+        ]
+      ]
+    },
+    {
+      "id": 27,
+      "client_name": " GLATT SYSTEMS PVT LTD1233",
+      "report_no": "12122",
+      "date": "2024-01-29",
+      "tableData": [
+        {
+          "film_size": "",
+          "joint": "",
+          "spot": "C-D",
+          "observation": "",
+          "remark": ""
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "client_name": " GLATT SYSTEMS PVT LTD1222",
+      "tableData": [
+        [
+          {
+            "film_size": "",
+            "joint": "",
+            "spot": "",
+            "observation": "",
+            "remark": "oko"
+          }
+        ]
+      ]
+    },
+    {
+      "id": 29,
+      "client_name": " GLATT SYSTEMS PVT LTD1",
+      "report_no": "PNS/2023-24/1634",
+      "date": "2024-01-11",
+      "tableData": [
+        [
+          {
+            "film_size": "",
+            "joint": "",
+            "spot": "D-E",
+            "observation": "",
+            "remark": "oko"
+          }
+        ]
+      ]
+    },
+    {
+      "id": 30,
+      "client_name": " GLATT SYSTEMS PVT LTD",
+      "report_no": "PNS/2023-24/161",
+      "date": "2024-01-18",
+      "tableData": [
+        {
+          "film_size": "1455",
+          "joint": "4666",
+          "spot": "C-D",
+          "observation": "14566",
+          "remark": "okok"
+        }
+      ]
+    }
+  ]
+}
