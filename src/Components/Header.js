@@ -18,7 +18,7 @@ const Header = () => {
 
         </div>
         <div className="right">
-        <Link className="logout" to="/">Logout</Link> 
+        <Link className="logout" to="/">&nbsp;Logout</Link> 
 
           <img src={profile} alt="logo" />
         </div>

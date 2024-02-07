@@ -584,7 +584,7 @@ const InvoiceCreate = () => {
 
                       <FormControl required sx={{ m: 1, minWidth: "25ch" }}>
                         <InputLabel id="demo-simple-select-required-label">
-                          Spot
+                          Spot&nbsp;
                         </InputLabel>
                         <Select
                           name="spot"

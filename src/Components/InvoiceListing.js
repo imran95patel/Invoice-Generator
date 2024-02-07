@@ -85,7 +85,7 @@ const RemoveFunction = (id) => {
               <TableCell align="center">JOB/Joint Id</TableCell>
               <TableCell align="center">Procedure No.</TableCell>
               <TableCell align="center">Date</TableCell>
-              <TableCell align="center">Action</TableCell>
+              <TableCell align="center">Action&nbsp;</TableCell>
             </TableRow>
           </TableHead>
           <TableBody>

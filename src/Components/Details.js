@@ -365,20 +365,7 @@ const Details = () => {
                         />
                       </Box>
                     </Paper>
-                    {/* <Grid item xs={12}>
-                <FormControl fullWidth variant="outlined">
-                  <InputLabel id="currency-label">Currency</InputLabel>
-                  <Select
-                    labelId="currency-label"
-                    id="currency"
-                    label="Currency"
-                  >
-                    <MenuItem value="USD">USD</MenuItem>
-                    <MenuItem value="EUR">EUR</MenuItem>
-                    <MenuItem value="GBP">GBP</MenuItem>
-                  </Select>
-                </FormControl>
-              </Grid> */}
+                   
                     <br />
                     <br />
                     {/* material info */}

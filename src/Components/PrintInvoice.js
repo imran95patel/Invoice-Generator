@@ -145,7 +145,7 @@ const PrintInvoice = () => {
           size="medium"
           onClick={backClick}
         >
-          Back 
+          Back&nbsp;
         </Button>
       </div>
       <div className="pdf-btn">

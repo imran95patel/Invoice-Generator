@@ -94,7 +94,7 @@ const Login = () => {
               onClick={handleLogin}
               style={{ margin: theme.spacing(3, 0, 2) }}
             >
-              Login
+              Login&nbsp;
             </Button>
           </form>
         </div>
