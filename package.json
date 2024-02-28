@@ -2,8 +2,6 @@
   "name": "lotus-two",
   "version": "0.1.0",
   "private": true,
-
-
   "dependencies": {
     "@emotion/react": "^11.11.3",
     "@emotion/styled": "^11.11.0",
@@ -12,6 +10,7 @@
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
+    "bootstrap": "^5.3.2",
     "gh-pages": "^6.1.1",
     "html2canvas": "^1.4.1",
     "jspdf": "^2.5.1",
@@ -25,7 +24,6 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
-    
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
